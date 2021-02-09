@@ -1,4 +1,4 @@
-package fr.isen.LIEUTAUD.androiderestaurant
+package com.example.isen_2021
 
 import org.junit.Test
 

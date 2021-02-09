@@ -1,4 +1,4 @@
-package fr.isen.LIEUTAUD.androiderestaurant
+package com.example.isen_2021
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("fr.isen.LIEUTAUD.androiderestaurant", appContext.packageName)
+        assertEquals("com.example.isen_2021", appContext.packageName)
     }
 }

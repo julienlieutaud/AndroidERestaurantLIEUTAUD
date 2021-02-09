@@ -8,10 +8,10 @@
 
     <string name="toast_content">Contenu du toast</string>
 
-    <string name="total">Total</string>
-    <string name="basket_validation">Allez hop, c"'"est commandé !</string>
+    <string name="add_to_cart">j"'"ajoute au panier</string>
+    <string name="basket_validation">Allez hop, c"'"est ajouté au panier !</string>
     <string name="basket">Panier</string>
-    <string name="order">Passer commande</string>
+    <string name="order">Direction paiement</string>
     <string name="quantity">Quantité :</string>
 
     <string name="registrationTitle">Création de votre compte</string>

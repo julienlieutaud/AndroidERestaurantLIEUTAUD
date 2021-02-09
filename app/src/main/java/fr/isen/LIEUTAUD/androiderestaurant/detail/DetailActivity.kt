@@ -60,7 +60,7 @@ class DetailActivity : BaseActivity() {
     private fun refreshShop(dish: Dish) {
         val price = itemCount * dish.prices.first().price.toFloat()
         binding.itemCount.text = itemCount.toString()
-        binding.shopButton.text = "${getString(R.string.total)} $price€"
+        binding.shopButton.text = "${getString(R.string.add_to_cart)} $price€"
     }
 
     private fun addToBasket(dish: Dish, count: Int) {
